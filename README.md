@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Fitness App
 
 <img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1656174077/media/Screenshot_218_uubkjo.png" title="app" alt="app">
 
